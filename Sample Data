@@ -1,0 +1,35 @@
+#Registration Sample Data
+
+{
+    "name": "manish",
+    "age": "31",
+    "date_of_birth": "1990/01/28",
+    "profession": "Employed",
+    "locality": "Sector 162",
+    "number_of_guests": "2",
+    "address": "Noida"
+}
+
+------------------------------------------
+
+#Update Sample data
+
+{
+    "name": "manish",
+    "age": "31",
+    "date_of_birth": "1990/01/28",
+    "profession": "Employed",
+    "locality": "Sector 162",
+    "number_of_guests": "1",
+    "address": "Noida",
+    "id": "1"
+}
+
+------------------------------------------
+
+#Participant listing with min and max range
+
+{
+    "min": "1",
+    "max": "2"
+}
